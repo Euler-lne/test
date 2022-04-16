@@ -15,7 +15,7 @@
             "environment": [],
             "externalConsole": true,
             "MIMode": "gdb",
-            "miDebuggerPath": "D:\\VS\\GCC\\mingw64\\bin\\gdb.exe",
+            "miDebuggerPath": "D:\\VScode\\GCC\\mingw64\\bin\\gdb.exe",
             "setupCommands": [
                 {
                     "description": "为 gdb 启用整齐打印",
